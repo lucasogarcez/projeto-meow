@@ -1,0 +1,26 @@
+/* FONTES */
+
+body {
+    background-color: aliceblue;
+}
+
+.content {
+    text-align: center;
+    margin: 0 200px;
+    font-size: 50px;
+    background-color: cornflowerblue;
+    border-radius: 1rem;
+}
+
+.types {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.types-list {
+    list-style: none;
+}
+
+.representation {
+    list-style: none;
+}
